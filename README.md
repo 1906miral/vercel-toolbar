@@ -6,6 +6,12 @@ A sleek macOS menu bar application for viewing your Vercel deployments in real-t
 ![Swift](https://img.shields.io/badge/Swift-5.0+-orange?style=flat-square&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-3.0+-blue?style=flat-square&logo=swift)
 
+## Demo
+
+
+https://github.com/user-attachments/assets/32b21407-1825-4d1c-8e07-9d533a4abfc8
+
+
 ## Features
 
 - 🚀 **Real-time deployment monitoring** - View your latest Vercel deployments
